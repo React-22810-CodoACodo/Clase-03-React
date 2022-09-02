@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Karma&display=swap');
+
+body{
+    background-image: url("images/fondo.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1{
+    font-family: 'Karma', serif;
+    color: rgb(255, 94, 0);
+}
+
+p{
+    font-family: 'Karma', serif;
+    font-size: 1.5em;
+}
