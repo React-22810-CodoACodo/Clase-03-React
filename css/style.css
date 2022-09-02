@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Karma&display=swap');
 
 body{
-    background-image: url("images/fondo.jpg");
+    background-image: url("../images/fondo.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -10,7 +10,9 @@ body{
 
 h1{
     font-family: 'Karma', serif;
+    font-size: 3em;
     color: rgb(255, 94, 0);
+
 }
 
 p{
