@@ -24,11 +24,11 @@ h1{
 
 .container-items{
     font-family: 'Karma', serif;
-    font-size: 1.7em;
+    font-size: 1.8em;
     font-weight: 600;
     color: rgb(150, 77, 77);
     position: fixed;
-    top: 32%;
+    top: 31%;
     left: 3%;
     text-shadow: 2px -1px 10px rgb(200, 142, 131);
 }
@@ -42,10 +42,15 @@ input{
     border-radius: 18px;
     padding: 0px;
     margin: 0px;
-    width: 180px;
-    height: 40px;
+    width: 170px;
+    height: 35px;
     cursor: pointer;
     position: fixed;
     top: 90.8%;
     left: 3.5%;
+    transition: 1.3s linear;
+}
+
+input:hover{
+    transform: scale(1.06);
 }
