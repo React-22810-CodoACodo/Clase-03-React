@@ -31,7 +31,6 @@ h1{
     top: 32%;
     left: 3%;
     text-shadow: 2px -1px 10px rgb(200, 142, 131);
-    
 }
 
 input{
@@ -46,11 +45,7 @@ input{
     width: 180px;
     height: 40px;
     cursor: pointer;
-    /* display: flex;
-    align-items: center;
-    justify-content: center; */
     position: fixed;
     top: 90.8%;
     left: 3.5%;
-    background: linear-gradient(blue);
 }
