@@ -85,9 +85,21 @@ input:hover{
         left: 3%;
     }
 
-    .container-items{
+    .container-item1{
         font-size: 1.5em;
         top: 30%;
+        left: 3%;
+    }
+
+    .container-item2{
+        font-size: 1.5em;
+        top: 35%;
+        left: 3%;
+    }
+    
+    .container-item3{
+        font-size: 1.5em;
+        top: 40%;
         left: 3%;
     }
 
