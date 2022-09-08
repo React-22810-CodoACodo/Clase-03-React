@@ -54,21 +54,19 @@ h1{
 
 input{
     font-family: 'Karma', serif;
-    font-size: 1.5em;
     background-color: rgb(47, 56, 55);
     color: rgba(125, 138, 138, 0.959);
     border: 1px solid rgb(54, 87, 83);
-    border-radius: 18px;
-    padding: 0.35% 0% 0% 0%;
-    margin: 0px;
-    width: 170px;
-    height: 35px;
+    width: 6.25em;
     cursor: pointer;
     position: fixed;
     top: 90.8%;
     left: 3.5%;
-    transition: 1s linear;
+    transition: 600ms linear;
     text-align: center;
+    border-radius: 1em;
+    padding: 0.2em 0em 0em 0em;
+    font-size: 1.5rem;
 }
 
 input:hover{
