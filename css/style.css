@@ -103,12 +103,24 @@ input:hover{
 
     input{
         font-size: 1.3em;
-        width: 140px;
-        height: 30px;
+        width: 11.5em;
+        height: 2.3em;
         padding: 1.5% 0% 0% 0%;
         top: 90.8%;
         left: 3.5%;
         text-align: center;
     }
 
+}
+
+@media all and (max-width: 290px){
+    .container-item1 {
+        font-size: 1.25rem;
+    }
+    .container-item2 {
+        font-size: 1.25rem;
+    }
+    .container-item3 {
+        font-size: 1.25rem;
+    }
 }
