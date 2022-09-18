@@ -92,7 +92,7 @@ input:hover{
     .container-item2{
         font-size: 1.5em;
         top: 36%;
-        left: 57%;
+        left: 3%;
     }
     
     .container-item3{
@@ -119,6 +119,7 @@ input:hover{
     }
     .container-item2 {
         font-size: 1.25rem;
+        left: 57%;
     }
     .container-item3 {
         font-size: 1.25rem;
