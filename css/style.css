@@ -116,10 +116,11 @@ input:hover{
 @media all and (max-width: 450px) {
     .container-item1 {
         font-size: 1.25rem;
+        top: 32%;
     }
     .container-item2 {
         font-size: 1.25rem;
-        top: 37.5%;
+        top: 38%;
         left: 58%;
     }
     .container-item3 {
